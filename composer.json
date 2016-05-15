@@ -1,0 +1,14 @@
+{
+    "name": "artofwp/acceptance-helper",
+    "description": "Used during acceptance testing. Activates and deactivates plugins without login requirement. DO NOT use on a live/production site.",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Andreas Nurbo",
+            "email": "andreas@artofwp.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
